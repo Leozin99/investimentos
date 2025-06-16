@@ -1,16 +1,11 @@
-# myapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![investimento](https://github.com/user-attachments/assets/89ec96f7-3f9e-4aa8-8883-e60393f75f01)
+Tecnologias ::: 
+Flutter
+Dart
+vsCode
+Firebase Studio
+Como testar ::: 
+Clone este repositório
+Abra com VsCode ou Android Studio, com um terminal instale as dependências e execute no emulador ou navegador ::: 
+flutter pub get
+flutter run
